@@ -1,4 +1,4 @@
 # Demo
 This is my first Git repo.
 <br>
-Author - Shaziya
+Author - Shaziya S
